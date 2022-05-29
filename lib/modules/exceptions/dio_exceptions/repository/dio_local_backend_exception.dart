@@ -1,4 +1,4 @@
-import 'dart:io';
+//import 'dart:io';
 
 import 'package:consumindo_api_com_flutter/repository/i_local_backend_exceptions.dart';
 import 'package:consumindo_api_com_flutter/shared/rest_exception.dart';
